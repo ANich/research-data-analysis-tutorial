@@ -1,0 +1,4 @@
+*.json
+*.pdf
+*.cfg
+.ipynb_checkpoints
