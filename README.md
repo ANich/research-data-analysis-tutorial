@@ -67,3 +67,14 @@ Some things I haven't found a good solution to yet (suggestions welcome):
 - FiveThirtyEight Datasets: https://github.com/fivethirtyeight/data
 
 - SQuAD2.0: https://rajpurkar.github.io/SQuAD-explorer/ 
+
+
+#### Things that came up during the discussion:
+
+- ReviewNB: https://www.reviewnb.com/ 
+
+- Removed note about `.where()`
+
+- Added sizing reference with `.tight_layout()`
+
+- Talked about flattening columns with `.ravel()`: https://docs.scipy.org/doc/numpy-1.15.0/reference/generated/numpy.ravel.html
